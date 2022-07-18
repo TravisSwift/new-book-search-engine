@@ -1,2 +1,2 @@
-# new-book-search-engine
-Book search engine
+# Book Search Engine Starter Code
+# book-search-engine
